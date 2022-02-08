@@ -5,7 +5,7 @@
     <h2>Linguagens de Programação</h2>
     <h5>Especialidade</h5>
     <div>
-        <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"</a>
+        <a href=""><img src="https://img.shields.io/badge/Oracle SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"</a>
     </div>
     <h5>Aprendendo</h5>
     <div>
