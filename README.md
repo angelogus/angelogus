@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Olá 👋</h1>
-    <h5>Há 4 anos trabalho com desenvolvimento de relatórios e processos dentro do ERP Sankhya.</h5>
+    <h5>Há 4 anos trabalho com desenvolvimento de dashboards, relatórios e processos dentro do ERP Sankhya.</h5>
     <hr>
     <h2>Linguagens de Programação</h2>
     <h5>Especialidade</h5>
