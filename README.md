@@ -23,7 +23,7 @@
         <h2>Contato</h2>
         <a href="http://instagram.com/angelogus"><img alt="Instagram" src="https://img.shields.io/badge/angelogus-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="max-width: 100%"></a>
         <a href="https://www.linkedin.com/in/angelo-botelho-15753b128/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%"</a>
-        <a href=""><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%"></a>
+        <a href="angelobot94@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%"></a>
     </div>
     <hr>
     <div>
